@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #35866b;
+}
+.timeline{
+    width: 100px;
+    margin: 100px auto;
+    position: relative;
+    background: #000;
+}
+.container{
+
+}
